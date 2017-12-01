@@ -1,0 +1,24 @@
+
+/* Class = "UITextField"; placeholder = "Enter your passphrase"; ObjectID = "4n2-6J-yd5"; */
+"4n2-6J-yd5.placeholder" = "Enter your passphrase";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "62n-c0-Bqi"; */
+"62n-c0-Bqi.text" = "Balance";
+
+/* Class = "UITabBarItem"; title = "Item 1"; ObjectID = "E5u-We-l3O"; */
+"E5u-We-l3O.title" = "Item 1";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "JkD-Uv-GvK"; */
+"JkD-Uv-GvK.text" = "0";
+
+/* Class = "UILabel"; text = "Passphrase"; ObjectID = "Yus-80-7XR"; */
+"Yus-80-7XR.text" = "Passphrase";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "bNR-e2-lsF"; */
+"bNR-e2-lsF.text" = "Address";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "g67-Kz-6vD"; */
+"g67-Kz-6vD.normalTitle" = "Create";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "qnj-m3-VhT"; */
+"qnj-m3-VhT.text" = "0";

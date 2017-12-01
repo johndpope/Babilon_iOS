@@ -1,0 +1,21 @@
+PODS:
+  - BigInt (3.0.1):
+    - SipHash (~> 1.2)
+  - Geth (1.7.3)
+  - KeychainAccess (3.1.0)
+  - SipHash (1.2.0)
+
+DEPENDENCIES:
+  - BigInt
+  - Geth
+  - KeychainAccess
+
+SPEC CHECKSUMS:
+  BigInt: 8e8a52161c745cd3ab78e3dc346a9fbee51e6cf6
+  Geth: 45a08eeef7a20e58dfc09a455563ffe210941a96
+  KeychainAccess: 94c5540b32eabf7bc32bfb976a268e8ea05fd6da
+  SipHash: c6e9e43e9c531b5bc6602545130c26194a6d31ce
+
+PODFILE CHECKSUM: 6e97d10a6ab709c02d4c3cc9196247c5c9bfbbfa
+
+COCOAPODS: 1.4.0.beta.2
